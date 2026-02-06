@@ -243,7 +243,7 @@ const Index = () => {
               subtitle="Explore the full theoretical framework and implementations"
             />
 
-            <div className="grid md:grid-cols-2 gap-4">
+            <div className="grid md:grid-cols-3 gap-4">
               <ResourceLink
                 href="https://github.com/tambetvali/LaegnaAIBasics/tree/main/LabDepth.ai/ComplexRelativity.ai"
                 title="Complex Relativity Theory"
@@ -276,8 +276,14 @@ const Index = () => {
               />
               <ResourceLink
                 href="https://prezi.com/view/3CvBfjlKweyefV3sl1Iy/?referral_token=G4RyDElnB3FN"
-                title="Prezi Presentation"
-                description="Visual overview of the theory"
+                title="Exponometer Theory"
+                description="Visual overview of the Complex Relativity framework"
+                type="prezi"
+              />
+              <ResourceLink
+                href="https://prezi.com/view/AkI7kSWXWyEranS9yy7U/?referral_token=G4RyDElnB3FN"
+                title="General Relativity Correlation"
+                description="Einstein's relativity in correlation with Complex Relativity"
                 type="prezi"
               />
             </div>

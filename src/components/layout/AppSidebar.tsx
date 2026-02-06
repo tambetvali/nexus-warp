@@ -40,8 +40,13 @@ const resourceLinks = [
     icon: BookOpen 
   },
   { 
-    title: "Prezi Presentation", 
+    title: "Exponometer Theory", 
     url: "https://prezi.com/view/3CvBfjlKweyefV3sl1Iy/?referral_token=G4RyDElnB3FN", 
+    icon: Presentation 
+  },
+  { 
+    title: "General Relativity", 
+    url: "https://prezi.com/view/AkI7kSWXWyEranS9yy7U/?referral_token=G4RyDElnB3FN", 
     icon: Presentation 
   },
 ];
